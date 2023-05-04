@@ -9,14 +9,15 @@
 - :wave: I am interested in Web Development
 
 - :telescope: I am currently a student at Softuni
-- :memo:  Currently interested in these tehchologies
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="25px" height="20" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" height="20" />
-- 📫 Reach me here -> stefyosifov@gmail.com
-- 😄 I do like cats, but the question is do you :scream_cat::knife:
+- :memo:  Interested in developing with
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="23px" height="25" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="23px" height="25" />
+- 📫 You can reach me here -> stefyosifov@gmail.com
+---
+### :fire: My Stats :
 
             
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StefanYosifov&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
           
           
