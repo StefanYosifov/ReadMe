@@ -7,15 +7,13 @@
 :man_student: :wave: Hello there my name is Stefan and... 
 
 - :wave: I am interested in Web Development
-- :telescope: Looking forward to kick off my software career 
-- :memo:  Always down to try new things
-- 👀 Focused on learning these
+- 👀 Interested in these technologies
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot-Net" alt="Dot-Net" width="25px" height="25"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25px" height="25"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25px" height="25"/>
-- 📫 Feel free to reach me out here -> stefyosifov@gmail.com
+  
 ---
-### :fire: My Stats :    
+### :fire: Some statistics :    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StefanYosifov&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 <br>
